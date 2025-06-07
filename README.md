@@ -72,6 +72,7 @@ Here's a selection of the technologies and tools I've worked with:
 I'm always open to discussing tech, projects, or just connecting with other developers.
 
 * **[🔗 My Portfolio]()** (Coming Soon!)
-* **[💼 My LinkedIn Profile](https://www.linkedin.com/in/jesper-holmberg-08666b368/)** (Feel free to connect!)
+* **[💼 My LinkedIn Profile](https://www.linkedin.com/in/jesper-holmberg-08666b368/)** 
+* **[📷 My Instagram Profile](https://www.instagram.com/j3sper.h/)** 
 
 Thanks for stopping by!
