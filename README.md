@@ -1,4 +1,4 @@
-# Hi, I'm Jesper! 👋
+# Hi, I'm Jesper!
 
 Welcome to my GitHub profile! I'm a passionate and curious **System Science student** at **Luleå University of Technology**, with a strong drive for programming and building digital solutions.
 
@@ -6,7 +6,7 @@ I love learning new technologies and exploring the full stack of development –
 
 ---
 
-### 💻 Technologies & Tools
+### Technologies & Tools
 
 Here's a selection of the technologies and tools I've worked with:
 
@@ -59,15 +59,15 @@ Here's a selection of the technologies and tools I've worked with:
 
 ---
 
-### 🌱 I'm currently focusing on
+### I'm currently focusing on
 
-* 🎓 Completing my degree in **System Science** at LTU.
-* 👨‍💻 Building new projects to expand my full-stack development skills.
-* 🚀 Always looking for the next exciting technology to learn!
+* Completing my degree in **System Science** at LTU.
+* Building new projects to expand my full-stack development skills.
+* Always looking for the next exciting technology to learn!
 
 ---
 
-### 📫 Get in Touch!
+### Get in Touch!
 
 I'm always open to discussing tech, projects, or just connecting with other developers.
 
