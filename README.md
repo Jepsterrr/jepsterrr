@@ -16,7 +16,7 @@ I love learning new technologies and exploring the full stack of development –
 
 I’m currently working on: **Expanding my Fullstack Portfolio**
 
-I’m currently focusing on: **Completing my degree at LTU**
+I’m currently focusing on: **Completing my degree at LTU** and **Designing TKL NEXUS Website**
 
 Ask me about: **React, Node.js or System Design**
 
